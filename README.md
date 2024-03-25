@@ -1,4 +1,4 @@
-Weather App
+## Weather App
 
 This project is a simple weather app created using HTML, CSS, and JavaScript. It utilizes the Fetch API to retrieve weather data from an external API and dynamically updates the DOM to display the weather information.
 
@@ -11,7 +11,7 @@ This project is a simple weather app created using HTML, CSS, and JavaScript. It
 ## How to Use
 
 1. Clone the repository to your local machine:
-2. git clone https://github.com/your-username/weather-app.git
+2. git clone https://github.com/anishravi/weather-app.git
 3. Navigate to the project directory:
    cd weather-app
 4. Open the `index.html` file in your web browser.
